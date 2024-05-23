@@ -1,1 +1,1 @@
-# manim
+OHLCVからanimationを作成するScript
