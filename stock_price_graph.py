@@ -2,7 +2,7 @@ from manim import *
 import pandas as pd
 
 # CSVファイルのパスを指定
-file_path = r"C:\Work\Python\venv\crypto_serch\candle_stickdata_1day_Y20222024.csv"
+file_path = 
 
 def read_csv(file_path):
     df = pd.read_csv(file_path)
